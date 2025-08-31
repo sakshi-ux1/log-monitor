@@ -1,0 +1,4 @@
+2025-08-30T17:35:38.150824100Z ALERT: ALERT: High ERROR rate — 1 in last 5 min at line #1
+2025-08-30T17:35:38.160092400Z ALERT: RECOVERY: Error rate back to normal.
+2025-08-30T17:35:38.161582100Z ALERT: ALERT: High ERROR rate — 1 in last 5 min at line #3
+2025-08-30T17:35:38.162590100Z ALERT: RECOVERY: Error rate back to normal.
